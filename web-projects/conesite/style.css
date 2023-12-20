@@ -1,0 +1,87 @@
+/* CSS Code for TT Clone Website  */
+
+* {
+    font-family: sans-serif;
+    background-color: white;
+    viewport-fit: ;
+
+}
+header {
+    display: flex;
+    position: sticky;
+    /* flex-direction: column; */
+    align-items: stretch;
+
+}
+.navigation {
+    display: flex;
+    font-size: 14px;
+    padding: 12px;
+    color: #020912BF;
+    justify-content: center;
+    
+}
+.nav-button {
+    cursor: pointer;
+    border-radius: 1px;
+    background-color: black;
+    color: white;
+    height: 42px;
+    width: 163px;
+    
+
+}
+.header-icons {
+    /* justify-content: right; */
+
+}
+.intro{
+    display: flex;
+}
+.intro2{
+    display: flex;
+
+    color: #020912BF;
+    font-size: 15px;
+
+}
+p {
+    font-size: 15px;
+    color: #020912BF;
+}
+.title h1 {
+    font-size: 40px;
+}
+.book-button {
+    cursor: pointer;
+    border-radius: 1px;
+    background-color: black;
+    color: white;
+    height: 42px;
+    width: 163px;
+   
+}
+.collage-buttons {
+ 
+    display: inline-flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 1rem;
+    padding: 0 3rem;
+    cursor: pointer;
+    font: inherit;
+
+}
+p {
+    color: #020912BF;
+
+}
+
+.footer {
+
+    color: #020912BF;
+    font-size: 14px;
+
+}
+
+
